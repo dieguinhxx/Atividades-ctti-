@@ -1,0 +1,22 @@
+h1{
+    /*Cor do Cabeçario*/
+    color: blue;
+    /*Tipo da fonte */
+
+     font-family: verdana;
+    /*Tamanho da fonte */
+     font-size: 300%;
+     /*Alinhamento do texto*/
+     text-align: center;
+}
+p{
+    /*Cor do paragrafo*/
+    color: red;
+    /*Tipo da fonte */
+    font-family: courier;
+    /*Tamanho da fonte*/
+    font-size: 160%;
+    /*Alinhamento do texto*/
+    text-align: center;
+    
+}
